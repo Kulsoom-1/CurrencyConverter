@@ -5,6 +5,7 @@ const { width, height } = Dimensions.get('window')
 export const colors = {
   THEME: '#F26322',
   TEXT: 'black',
+  BACKGROUND: 'white',
   GREY: 'grey',
   LIGHT_GREY: 'rgb(170, 170, 170)',
   WHITE_GREY: 'rgb(240, 240, 240)',
